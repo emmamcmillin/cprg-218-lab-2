@@ -9,6 +9,7 @@
     - [Grilled Chicken Sandwich](#grilled-chicken-sandwich)
 - [Desserts](#desserts)
     - [Chocolate Chip Cookies](#chocolate-chip-cookies)
+    - [Cream Puffs](#cream-puffs)
 
 ## Appetizers
 ### Spinach and Artichoke Dip
@@ -102,6 +103,7 @@ Ingredients:
 - 2 eggs
 - 2 tsp vanilla extract
 - 2 cups semisweet chocolate chips
+- 2 cups of white chocolate chips
 
 Instructions:
 1. Preheat oven to 375°F (190°C).
@@ -113,3 +115,26 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Cream Puffs
+
+Ingredients:
+- 2 (3.5 ounce) packages instant vanilla pudding mix
+- 2 cups heavy cream
+- 1 cup milk
+- ½ cup butter
+- 1 cup water
+- ¼ teaspoon salt
+- 1 cup all-purpose flour
+- 4 large eggs
+
+Instructions:
+1. Mix together vanilla instant pudding mix, cream and milk. Cover and refrigerate to set. 
+2. Preheat oven to 425 degrees F (220 degrees C).
+3. In a large pot, bring water and butter to a rolling boil.
+4. Stir in flour and salt until the mixture forms a ball.
+5. Transfer the dough to a large mixing bowl. Using a wooden spoon or stand mixer, beat in the eggs one at a time, mixing well after each.
+6. Drop by tablespoonfuls onto an ungreased baking sheet, spacing them a couple of inches apart.
+7. Bake for 20 to 25 minutes in the preheated oven, until golden brown. Centers should be dry.
+8. When the shells are cool, either split and fill them with the pudding mixture, or use a pastry bag to pipe the pudding into the shells.
+9. Enjoy!
